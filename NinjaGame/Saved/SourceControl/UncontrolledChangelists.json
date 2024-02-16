@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/p.konopko/source/repos/TinyNinja/NinjaGame/Content/NinjaGame/Core/Player/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/p.konopko/source/repos/TinyNinja/NinjaGame/Content/NinjaGame/Maps/TutorialMap.umap",
 				"D:/repos/NinjaGame/TinyNinja/NinjaGame/Content/NinjaGame/Core/Player/Blueprints/BP_PlayerCharacter.uasset",
 				"D:/repos/NinjaGame/TinyNinja/NinjaGame/Content/NinjaGame/Maps/TutorialMap.umap",
 				"D:/repos/NinjaGame/TinyNinja/NinjaGame/Content/NinjaGame/Maps/_GENERATED/patry/Box_8A69763F.uasset",

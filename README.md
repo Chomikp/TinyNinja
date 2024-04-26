@@ -1,5 +1,5 @@
 # TinyNinja
- Stealth/Action/Adventure game made in UnrealEngine 5.3
+ Stealth/Action/Adventure game made in UnrealEngine 5.4
 
 Player mechanics:
 Player can move around in 3D space, jump and crouch. Player can also walljump, wallslide (vertically, when going down) and grab ledges.
